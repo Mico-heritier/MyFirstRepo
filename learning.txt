@@ -1,5 +1,1 @@
-What I've learnt so far:
-creating my GitHub account
-branching 
-forking
-basic Git commands
+So far in this course, I have learned how to use Git and GitHub to manage projects. I now understand how to clone repositories, create files, and track changes using commits. This has helped me see how developers collaborate efficiently.
