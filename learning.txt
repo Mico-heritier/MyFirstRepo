@@ -1,1 +1,1 @@
-So far in this course, I have learned how to use Bash loops and conditional statements to automate tasks and manage files in a Linux environment.
+What I have learned from this course: I have learned how to use Bash loops and conditional statements to automate tasks and manage files.
